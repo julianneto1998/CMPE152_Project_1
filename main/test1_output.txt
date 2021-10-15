@@ -1,0 +1,23 @@
+{	{
+IF	if
+(	(
+ID	n
+EQ	==
+NUM	0
+)	)
+ID	return
+NUM	1
+;	;
+ID	return
+ID	n
+*	*
+ID	factorial
+(	(
+ID	n
+-	-
+NUM	1
+)	)
+;	;
+}	}
+EOF	EOF
+Process finished with exit code 0
